@@ -1,0 +1,116 @@
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.json
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.endpoints.json
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.exe
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.deps.json
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.runtimeconfig.json
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\WebApplication2.styles.css
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2.props
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Study and games\WebApplication2\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Study and games\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\appsettings.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.endpoints.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.exe
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.deps.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.runtimeconfig.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
+C:\Programs\Course (fullstack c#, angular, typescript)\WebApplication2-back\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\appsettings.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.endpoints.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.exe
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.deps.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.runtimeconfig.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
+C:\Programs\CoursesProject\WebApplication2-back\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
